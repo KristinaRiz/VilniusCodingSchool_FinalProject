@@ -1,1 +1,1 @@
-"# VilniusCodingSchool_FinalProject" 
+Vilnius Coding School Final Automation Project
